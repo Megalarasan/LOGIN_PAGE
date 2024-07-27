@@ -13,10 +13,6 @@ This project showcases a stylish and responsive login form created with HTML and
 - `index.html`: The main HTML file containing the structure of the login form.
 - `style.css`: The CSS file providing styling and animations.
 
-## Preview
-
-![Login Form Preview](preview.png)
-
 ## Usage
 
 1. Clone the repository:
